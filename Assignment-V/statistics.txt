@@ -1,0 +1,6 @@
+TAG             PRECISION       RECALL          F-MEASURE      
+PERSON          0.85714         0.85714         0.85714        
+LOCATION        1.00000         0.60000         0.75000        
+ORGANIZATION    0.84000         0.98438         0.90647        
+DATE            0.33333         0.33333         0.33333        
+TIME            1.00000         0.61538         0.76190        

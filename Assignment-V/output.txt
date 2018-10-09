@@ -1,0 +1,10 @@
+Barack_PERSON Obama_PERSON was the former president of United_ORGANIZATION States_ORGANIZATION of_ORGANIZATION America_ORGANIZATION .
+Abhishek was born on 29 April_DATE 1997_DATE at 12:36 PM .
+Mahatma_PERSON Gandhi_PERSON fought for the independence of India_LOCATION .
+Vaibhav is studying in COEP .
+Alan works at Microsoft_ORGANIZATION .
+While in France_LOCATION , Christine_PERSON Lagarde_PERSON discussed short-term stimulus efforts in a recent interview with the Wall Street Journal .
+Germany_LOCATION imported 45000 sheep from Britain_LOCATION in year 2009_DATE .
+Barack_PERSON Obama_PERSON was born on August_DATE 4_DATE ,_DATE 1961_DATE in Honolulu_LOCATION , Hawaii_LOCATION which was 4 days ago .
+EU_ORGANIZATION rejects German call .
+Adolf Hitler was German .
